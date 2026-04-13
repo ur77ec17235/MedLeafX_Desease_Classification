@@ -1,0 +1,28 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# Models / checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+
+# Large outputs
+results.zip
+content/
+drive_outputs/
+results/
+
+# Jupyter / local
+.env
+.env.*
+.cache/
+*.log
