@@ -37,7 +37,7 @@ This project focuses on **medicinal plant leaf disease classification** using de
 - ✅ Fine-tuning pretrained CNN models on **AI-MedLeafX**
 - ✅ Comparison of **ResNet50**, **EfficientNetV2-S**, and **ConvNeXt-Tiny**
 - ✅ Explainability with **Grad-CAM** and **t-SNE**
-- ✅ Strong performance with **98.16% accuracy** from ConvNeXt-Tiny
+- ✅ Strong performance with **98.85% accuracy** from **EfficientNetV2-S**
 - ✅ Organized notebooks for training, evaluation, and XAI experiments
 
 ---
